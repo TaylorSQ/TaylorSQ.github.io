@@ -3,4 +3,10 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  font-family: monospace;
+  color: lime;
+  background-color: black;
+  padding: 40px;
+  font-size: 1.5rem;
+  border: 2px solid lime;
 }
